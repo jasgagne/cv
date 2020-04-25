@@ -1,0 +1,11 @@
+profile-picture {
+    border-radius: 100%;
+    float: left;
+    margin: 0 2em 0 0;
+}
+
+th,
+td {
+    border: solid black 1px;
+    padding: 2em;
+}
