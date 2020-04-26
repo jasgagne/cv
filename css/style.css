@@ -1,11 +1,20 @@
-profile-picture {
+body {
+    background-color: #eeeeee;
+}
+
+#profile-picture {
     border-radius: 100%;
     float: left;
     margin: 0 2em 0 0;
 }
 
-th,
-td {
-    border: solid black 1px;
-    padding: 2em;
+h1,h3 {
+    color: #222831;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: lightgray;
+    border-width: 5px;
+    width: 5%;
 }
